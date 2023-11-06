@@ -21,7 +21,7 @@
 <img align="left" alt="GitHub" height="40px" width="40px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
 <img align="left" alt="Bootstrap" height="40px" width="40px" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/bootstrap.svg" />
 <img align="left" alt="Python" height="40px" width="40px" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/python.svg" />
-<img align="left" alt="Dot-Net" height="40px" width="40px" src="https://github.com/dotnet/brand/blob/main/logo/dotnet-logo.png" />
+<img align="left" alt="Dot-Net" height="40px" width="40px" src="https://github.com/devicons/devicon/blob/master/icons/dot-net/dot-net-original-wordmark.svg" />
 <img align="left" alt="WordPress" height="40px" width="40px" src="https://github.com/devicons/devicon/blob/master/icons/wordpress/wordpress-plain.svg" />
 <img align="left" alt="Flask" height="40px" width="40px" src="https://github.com/devicons/devicon/blob/master/icons/flask/flask-original.svg" />
 
