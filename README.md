@@ -23,6 +23,7 @@
 <img align="left" alt="Python" height="40px" width="40px" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/python.svg" />
 <img align="left" alt="Dot-Net" height="40px" width="40px" src="https://github.com/dotnet/brand/blob/main/logo/dotnet-logo.png" />
 <img align="left" alt="WordPress" height="40px" width="40px" src="https://github.com/devicons/devicon/blob/master/icons/wordpress/wordpress-plain.svg" />
+<img align="left" alt="Flask" height="40px" width="40px" src="https://github.com/devicons/devicon/blob/master/icons/flask/flask-original.svg" />
 
 <br />
 <br />
