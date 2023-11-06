@@ -6,7 +6,7 @@
 - Currently I am a software developer working on projects using HTML/CSS, JavaScript, Python, React.js, Flask, SQL. Currently building a website using WordPress.
 - I am currently learning WordPress and its ins and outs. I am also taking a course to learn .NET to add to my adaptability to new environments.
 - I am currently in search of a full time Software Developer position.
-- Reach out to my using my email : jessmor1993@gmail.com or my linkedIn : https://www.linkedin.com/in/jesswmorrison/
+- Reach out to me using my email : jessmor1993@gmail.com or my linkedIn : https://www.linkedin.com/in/jesswmorrison/
 
 <br />
 
@@ -21,6 +21,7 @@
 <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
 <img align="left" alt="Bootstrap" width="26px" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/bootstrap.svg" />
 <img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/python.svg" />
+<img align="left" alt="Dot-Net" width="26px" src="https://github.com/dotnet/brand/tree/master/logo" />
 
 <br />
 <br />
