@@ -22,7 +22,6 @@
 <img align="left" alt="Bootstrap" height="50px" width="50px" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/bootstrap.svg" />
 <img align="left" alt="Python" height="50px" width="50px" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/python.svg" />
 <img align="left" alt="Dot-Net" height="50px" width="50px" src="https://github.com/devicons/devicon/blob/master/icons/dot-net/dot-net-original-wordmark.svg" />
-<img align="left" alt="WordPress" height="50px" width="50px" src="https://github.com/devicons/devicon/blob/master/icons/wordpress/wordpress-plain.svg" />
 <img align="left" alt="Flask" height="50px" width="50px" src="https://github.com/devicons/devicon/blob/master/icons/flask/flask-original.svg" />
 
 <br />
