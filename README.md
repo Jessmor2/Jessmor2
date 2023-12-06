@@ -3,9 +3,8 @@
 
 ## I'm a Husband, Father of two daughters, and  developer! 
 
-- Currently I am a software developer working on projects using HTML/CSS, JavaScript, Python, React.js, Flask, SQL. Currently building a website using WordPress.
-- I am currently learning WordPress and its ins and outs. I am also taking a course to learn .NET to add to my adaptability to new environments.
-- I am currently in search of a full time Software Developer position.
+- Currently I am a software developer working on projects using HTML/CSS, JavaScript, Python, React.js, Flask, SQL. Currently building a website for Tackle Shop as Freelance job.
+- I am currently in search of a full time Junior Software Developer/ Junior Front-End Developer/ Junior Web Developer position.
 - Reach out to me using my email : jessmor1993@gmail.com or my linkedIn : https://www.linkedin.com/in/jesswmorrison/
 
 <br />
@@ -21,7 +20,6 @@
 <img align="left" alt="GitHub" height="50px" width="50px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
 <img align="left" alt="Bootstrap" height="50px" width="50px" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/bootstrap.svg" />
 <img align="left" alt="Python" height="50px" width="50px" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/python.svg" />
-<img align="left" alt="Dot-Net" height="50px" width="50px" src="https://github.com/devicons/devicon/blob/master/icons/dot-net/dot-net-original-wordmark.svg" />
 <img align="left" alt="Flask" height="50px" width="50px" src="https://github.com/devicons/devicon/blob/master/icons/flask/flask-original.svg" />
 
 <br />
